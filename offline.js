@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1505430167,
+	"version": 1506013461,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -261,6 +261,15 @@
 		"images/buy_17-sheet0.png",
 		"images/buy_9-sheet0.png",
 		"images/tiledbackground8.png",
+		"images/bb_go_1-sheet0.png",
+		"images/bb_go_2-sheet0.png",
+		"images/bb_go_3-sheet0.png",
+		"images/bb_go_4-sheet0.png",
+		"images/bb_go_5-sheet0.png",
+		"images/bb_go_6-sheet0.png",
+		"images/bb_go_7-sheet0.png",
+		"images/bb_go_8-sheet0.png",
+		"images/bb_go_9-sheet0.png",
 		"media/town1.ogg",
 		"media/town2.ogg",
 		"media/scene1.ogg",
